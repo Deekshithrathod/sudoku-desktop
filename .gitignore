@@ -1,0 +1,6 @@
+javafx-sdk-18.0.1
+.git
+**/.idea/**
+**/.mvn/**
+**/mvnw.cmd
+**/mvnw
